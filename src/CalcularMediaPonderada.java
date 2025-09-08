@@ -25,7 +25,7 @@ public class CalcularMediaPonderada {
         Double nota3= scanner.nextDouble();
 
         // Solicita o peso
-        System.out.print("Digite o peso 1: ");
+        System.out.print("Digite ol peso 1: ");
         Double peso1= scanner.nextDouble();
         System.out.print("Digite o peso 2: ");
         Double peso2= scanner.nextDouble();
