@@ -3,7 +3,8 @@ public class CalcularMediaPonderada {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // As variaveis foram definidas direto no scanner, ex: Double nota= scanner.nextDouble();
-        // utilizei um scanner Double para todas Variaveis.
+        // utilizei scanner.nextDouble(); para todas Variaveis.
+        // todas as variaveis foram utilizadas Double:
         // Double nota1;
         // Double nota2;
         // Double nota3;
