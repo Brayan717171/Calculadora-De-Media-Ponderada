@@ -4,6 +4,13 @@ public class CalcularMediaPonderada {
         Scanner scanner = new Scanner(System.in);
         // As variaveis foram definidas direto no scanner, ex: Double nota= scanner.nextDouble();
         // utilizei um scanner Double para todas Variaveis.
+        // Double nota1;
+        // Double nota2;
+        // Double nota3;
+        // Double peso1;
+        // Double peso2;
+        // Double peso3;
+
         // Solicitar o nome do aluno
         System.out.print("Digite o nome do aluno: ");
         String nome= scanner.nextLine();
