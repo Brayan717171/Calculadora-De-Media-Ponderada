@@ -21,7 +21,7 @@ import java.util.Scanner;
          Double peso3= scanner.nextDouble();
 
          double somaPesos = peso1 + peso2 + peso3;
-         double mediaPonderada = (nota1 + peso1 + nota2 + peso2 + nota3 + peso3) / somaPesos;
+         double mediaPonderada = (nota1 * peso1 + nota2 * peso2 + nota3 * peso3) / somaPesos;
 
          System.out.printf("A média ponderada do aluno %s é: %.2f\n", nome, mediaPonderada);
 
